@@ -1,0 +1,379 @@
+semanticnet_id,semanticnet_settore,semanticnet_settore_WN,semanticnet_chiave,semanticnet_chiave_WN_1,semanticnet_chiave_WN_2,semanticnet_chiave_WN_3,semanticnet_chiave_WN_closest,semanticnet_tpdom,semanticnet_parola,semanticnet_parola_WN,semanticnet_parola_WN_closest,semanticnet_ndom,semanticnet_FK_question_id,semanticnet_testo
+1,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,O,vagliare,NA,ita-15-38290-v,140',183,Vagliare il grano.
+2,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,O,vaglio,ita-15-2238-n,,"140""",181,Vaglio.
+3,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,arbiolo,,,141c,190,"""arbiolo""."
+4,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,biondare,,,518,730,"""biondare""."
+5,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,capisteo,,,141a,186,"""capisteo""."
+6,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,colo,,,141e,194,"""colo""."
+7,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,crivello,,,141d,192,"""crivèllo"""
+8,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,mondare,,,516,726,"""sbucciare una mela"" o ""mondare una mela""?"
+9,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,sbucciare,,,516,726,"""sbucciare una mela"" o ""mondare una mela""?"
+10,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,S,vassoia,,,141b,188,"""vassoia""."
+11,agricoltura,ita-15-27353-n,cesta,ita-15-1867-n,,,,O,cesta_per_l'_erba,NA,ita-15-1867-n,163,255,Grossa cesta rotonda per l' erba.
+12,agricoltura,ita-15-27353-n,cesta,ita-15-1867-n,,,,O,cestino,NA,ita-15-13665-n,165c,269,Come si chiama il cestino per le olive?
+13,agricoltura,ita-15-27353-n,cesta,,,,,S,bruscola,,,165b,267,"""brùscola""."
+14,agricoltura,ita-15-27353-n,cesta,,,,,S,bugnola,,,165a,265,"""bùgnolo"", ""bùgnola""."
+15,agricoltura,ita-15-27353-n,cesta,,,,,S,bugnolo,,,165a,265,"""bùgnolo"", ""bùgnola""."
+16,agricoltura,ita-15-27353-n,cesta,,,,,S,cavagno,,,164,257,"""cavagno""."
+17,agricoltura,ita-15-27353-n,cesta,,,,,S,crivello,,,141d,192,"""crivèllo"""
+18,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,barcaia,,,132c,145,"""barcaia""."
+19,agricoltura,ita-15-27353-n,edificio,ita-15-196-n,,,,O,frantoio,ita-15-26117-n,,127,121,Frantoio.
+20,agricoltura,ita-15-27353-n,edificio,ita-15-196-n,,,,O,seccatoio,NA,ita-15-19206-n,94,55,Seccatoio di castagne.
+21,agricoltura,ita-15-27353-n,edificio,ita-15-196-n,,,,S,cavagno,,,164,257,"""cavagno""."
+22,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,bardella,,,469B,605,"""bardella""."
+23,agricoltura,ita-15-27353-n,essiccazione,ita-15-19206-n,,,,O,pericarpo,NA,ita-15-22360-n,92,51,Buccia interna della castagna.
+24,agricoltura,ita-15-27353-n,essiccazione,ita-15-19206-n,,,,O,seccatoio,NA,ita-15-19206-n,94,55,Seccatoio di castagne.
+25,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+26,agricoltura,ita-15-27353-n,fascio,ita-15-18855-n,,,,O,covone,ita-15-20699-n,,130,134,Fascio di spighe legate sul campo.
+27,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+28,agricoltura,ita-15-27353-n,fascio,ita-15-18855-n,,,,S,balzo,,,131,136,"""balzo""."
+29,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,O,terriccio,NA,ita-15-27123-n,90,47,Terriccio di castagno.
+30,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,capisteo,,,141a,186,"""capisteo""."
+31,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,concio,,,189b,334,"""concio""."
+32,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+33,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,governo,,,189d,338,"""governo""."
+34,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,ciuco,,,176,294,"E' più usato ""asino"", ""ciuco"" o ""somaro""?"
+35,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,guaime,,,72,228,"""guaime""."
+36,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,pettata,,,36,142,"""pettata""."
+37,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,guaime,,,072a,230,"""sa di guaime""."
+38,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,lettame,,,189a,331,"""lettame""."
+39,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,somaro,,,176,294,"E' più usato ""asino"", ""ciuco"" o ""somaro""?"
+40,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,lettime,,,188,327,"""lettime"", ""lettume""."
+41,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,vassoia,,,141b,188,"""vassoia""."
+42,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,lettume,,,188,327,"""lettime"", ""lettume""."
+43,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,O,pagliuzza,ita-15-30557-n,,139,177,Pagliuzza.
+44,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,pacciame,,,145a,219,"""pacciame""."
+45,agricoltura,ita-15-27353-n,fertilizzante,ita-15-5688-n,,,,S,sugo,,,189c,336,"""sugo""."
+46,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,O,pula,ita-15-1507-n,,137,173,Pula.
+47,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,O,cesta_per_l'_erba,NA,ita-15-1867-n,163,255,Grossa cesta rotonda per l' erba.
+48,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,O,stollo,ita-15-513-n,,133,164,Palo del pagliaio.
+49,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,barca,,,132b,143,"""barca""."
+50,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,O,trebbiare,ita-15-41163-v,,134,166,Trebbiare.
+51,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,barcaia,,,132c,145,"""barcaia""."
+52,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,barca,,,132b,143,"""barca""."
+53,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+54,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,barcaia,,,132c,145,"""barcaia""."
+55,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+56,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+57,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+58,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+59,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+60,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+61,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,bruschi,,,144b,207,"""bruschi""."
+62,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,crivello,,,141d,192,"""crivèllo"""
+63,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+64,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,frullana,,,160,248,"""frullana""."
+65,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+66,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+67,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,guaime,,,72,228,"""guaime""."
+68,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,pacciame,,,145a,219,"""pacciame""."
+69,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+70,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,pagliaia,,,132e,155,"""pagliaia""."
+71,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+72,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,pagliaio,,,132f,157,"""pagliaio""."
+73,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,moncello,,,132h,161,"""moncello""."
+74,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,pula,,,138,175,"""pula""."
+75,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,pacciame,,,145a,219,"""pacciame""."
+76,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,pagliaia,,,132e,155,"""pagliaia""."
+77,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,steccia,,,136,171,"""steccia""."
+78,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,pagliaio,,,132f,157,"""pagliaio""."
+79,agricoltura,ita-15-27353-n,trebbiatura,ita-15-2874-n,,,,S,vassoia,,,141b,188,"""vassoia""."
+80,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,raccoltaia,,,132g,159,"""raccoltaia""."
+81,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,O,acino,ita-15-25757-n,,122,112,Chicco d' uva.
+82,agricoltura,ita-15-27353-n,foraggio,ita-15-9818-n,,,,S,steccia,,,136,171,"""steccia""."
+83,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,O,grappolo_1,ita-15-26969-n,,115,98,Grappolo d' uva.
+84,agricoltura,ita-15-27353-n,frutto,ita-15-20190-n,,,,O,acino,ita-15-25757-n,,122,112,Chicco d' uva.
+85,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,O,grappolo_2,NA,ita-15-26969-n,117,101,Parte del grappolo d' uva.
+86,agricoltura,ita-15-27353-n,frutto,ita-15-20190-n,,,,O,grappolo_1,ita-15-26969-n,,115,98,Grappolo d' uva.
+87,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,O,grappolo_3,NA,ita-15-26969-n,118,103,Doppio grappolo.
+88,agricoltura,ita-15-27353-n,frutto,ita-15-20190-n,,,,O,grappolo_2,NA,ita-15-26969-n,117,101,Parte del grappolo d' uva.
+89,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,O,raspo,ita-15-15714-n,,119,105,"Raspo, grappolo senza acini."
+90,agricoltura,ita-15-27353-n,frutto,ita-15-20190-n,,,,O,grappolo_3,NA,ita-15-26969-n,118,103,Doppio grappolo.
+91,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,allazzire,,,113a,93,"""Allazzire"" (i denti)."
+92,agricoltura,ita-15-27353-n,frutto,ita-15-20190-n,,,,O,raspo,ita-15-15714-n,,119,105,"Raspo, grappolo senza acini."
+93,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,colo,,,141e,194,"""colo""."
+94,agricoltura,ita-15-27353-n,frutto,,,,,S,bugnola,,,165a,265,"""bùgnolo"", ""bùgnola""."
+95,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,fiocino,,,123,114,"""fiòcino""."
+96,agricoltura,ita-15-27353-n,frutto,,,,,S,bugnolo,,,165a,265,"""bùgnolo"", ""bùgnola""."
+97,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,frangere,,,127a,123,"""frangere""."
+98,agricoltura,ita-15-27353-n,frutto,,,,,S,fiocino,,,123,114,"""fiòcino""."
+99,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,gibella,,,120,107,"""piggello"" o ""gibella""."
+100,agricoltura,ita-15-27353-n,frutto,,,,,S,gibella,,,120,107,"""piggello"" o ""gibella""."
+101,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,lazzo,,,113,91,"""lazzo""."
+102,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,piggello,,,120,107,"""piggello"" o ""gibella""."
+103,agricoltura,ita-15-27353-n,frutto,,,,,S,lappole,,,394,580,"""lappole""."
+104,agricoltura,ita-15-27353-n,uva,ita-15-17844-n,,,,S,raspollo,,,116,100,"""raspollo""."
+105,agricoltura,ita-15-27353-n,frutto,,,,,S,leppole,,,395,582,"""leppole""."
+106,agricoltura,ita-15-27353-n,frutto,,,,,S,piggello,,,120,107,"""piggello"" o ""gibella""."
+107,agricoltura,ita-15-27353-n,vigna,ita-15-15642-n,,,,O,filare,ita-15-12085-n,,125,118,Filare.
+108,agricoltura,ita-15-27353-n,frutto,,,,,S,raspollo,,,116,100,"""raspollo""."
+109,agricoltura,ita-15-27353-n,vigna,ita-15-15642-n,,,,O,palo_della_vite,NA,ita-15-10546-n,124,115,Sostegno morto della vite.
+110,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,covone,ita-15-20699-n,,130,134,Fascio di spighe legate sul campo.
+111,agricoltura,ita-15-27353-n,vigna,,,,,S,proda,,,38,146,"""proda""."
+112,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,mietere,ita-15-32641-v,,129',132,Mietere.
+113,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,mietitura,ita-15-17911-n,,"129""",129,Mietitura.
+114,agricoltura,ita-15-27353-n,vino,,,,,S,allazzire,,,113a,93,"""Allazzire"" (i denti)."
+115,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,pagliuzza,ita-15-30557-n,,139,177,Pagliuzza.
+116,agricoltura,ita-15-27353-n,vino,,,,,S,bizzo,,,349,475,"""bizzo""."
+117,agricoltura,ita-15-27353-n,vino,,,,,S,colo,,,141e,194,"""colo""."
+118,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,pula,ita-15-1507-n,,137,173,Pula.
+119,agricoltura,ita-15-27353-n,vino,,,,,S,governo,,,189d,338,"""governo""."
+120,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,stollo,ita-15-513-n,,133,164,Palo del pagliaio.
+121,agricoltura,ita-15-27353-n,vino,,,,,S,lazzo,,,113,91,"""lazzo""."
+122,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,stoppia,ita-15-50709-n,,135,168,Resti del grano nel campo.
+123,agricoltura,ita-15-27353-n,vino,,,,,S,manfano,,,434d,690,"""mànfano""."
+124,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,trebbiare,ita-15-41163-v,,134,166,Trebbiare.
+125,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,vagliare,NA,ita-15-38290-v,140',183,Vagliare il grano.
+126,agricoltura,ita-15-27353-n,vino,,,,,S,postema,,,471,608,"""postèma""."
+127,agricoltura,ita-15-27353-n,grano,ita-15-26303-n,ita-15-8172-n,ita-15-26302-n,,O,vaglio,ita-15-2238-n,,"140""",181,Vaglio.
+128,agricoltura,ita-15-27353-n,vino,,,,,S,sito,,,465a,595,"""sito""."
+129,agricoltura,ita-15-27353-n,grano,,,,,S,balzo,,,131,136,"""balzo""."
+130,agricoltura,ita-15-27353-n,vino,,,,,S,vassoia,,,141b,188,"""vassoia""."
+131,agricoltura,ita-15-27353-n,grano,,,,,S,barca,,,132b,143,"""barca""."
+132,agricoltura,ita-15-27353-n,vino,,,,,S,zolfanello,,,453b,559,"""zolfanello""."
+133,agricoltura,ita-15-27353-n,grano,,,,,S,barcaia,,,132c,145,"""barcaia""."
+134,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,acino,ita-15-25757-n,,122,112,Chicco d' uva.
+135,agricoltura,ita-15-27353-n,grano,,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+136,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,bigoncia,ita-15-16585-n,,162,252,Bigoncia.
+137,agricoltura,ita-15-27353-n,grano,,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+138,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,filare,ita-15-12085-n,,125,118,Filare.
+139,agricoltura,ita-15-27353-n,grano,,,,,S,bronco,,,144e,212,"""bronco""."
+140,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,grappolo_1,ita-15-26969-n,,115,98,Grappolo d' uva.
+141,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,grappolo_2,NA,ita-15-26969-n,117,101,Parte del grappolo d' uva.
+142,agricoltura,ita-15-27353-n,grano,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+143,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,grappolo_3,NA,ita-15-26969-n,118,103,Doppio grappolo.
+144,agricoltura,ita-15-27353-n,grano,,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+145,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,palo_della_vite,NA,ita-15-10546-n,124,115,Sostegno morto della vite.
+146,agricoltura,ita-15-27353-n,grano,,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+147,agricoltura,ita-15-27353-n,grano,,,,,S,moncello,,,132h,161,"""moncello""."
+148,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,raspo,ita-15-15714-n,,119,105,"Raspo, grappolo senza acini."
+149,agricoltura,ita-15-27353-n,grano,,,,,S,pacciame,,,145a,219,"""pacciame""."
+150,agricoltura,ita-15-27353-n,grano,,,,,S,pagliaia,,,132e,155,"""pagliaia""."
+151,agricoltura,ita-15-27353-n,vite,ita-15-14282-n,ita-15-14283-n,,,O,viticcio,ita-15-24421-n,,121,109,Viticcio.
+152,agricoltura,ita-15-27353-n,grano,,,,,S,pagliaio,,,132f,157,"""pagliaio""."
+153,agricoltura,ita-15-27353-n,vite,,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+154,agricoltura,ita-15-27353-n,grano,,,,,S,pula,,,138,175,"""pula""."
+155,agricoltura,ita-15-27353-n,vite,,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+156,agricoltura,ita-15-27353-n,grano,,,,,S,raccoltaia,,,132g,159,"""raccoltaia""."
+157,agricoltura,ita-15-27353-n,grano,,,,,S,steccia,,,136,171,"""steccia""."
+158,agricoltura,ita-15-27353-n,vite,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+159,agricoltura,ita-15-27353-n,grano,,,,,S,strinito,,,418,635,"""strinito""."
+160,agricoltura,ita-15-27353-n,vite,,,,,S,fiocino,,,123,114,"""fiòcino""."
+161,agricoltura,ita-15-27353-n,granturco,ita-15-8172-n,,,,O,stocco_di_granturco,ita-15-993-n,,135a,170,Resti del granturco nel campo.
+162,agricoltura,ita-15-27353-n,vite,,,,,S,gibella,,,120,107,"""piggello"" o ""gibella""."
+163,agricoltura,ita-15-27353-n,granturco,,,,,S,steccia,,,136,171,"""steccia""."
+164,agricoltura,ita-15-27353-n,vite,,,,,S,manfano,,,434d,690,"""mànfano""."
+165,agricoltura,ita-15-27353-n,involucro,ita-15-26274-n,,,,O,pericarpo,NA,ita-15-22360-n,92,51,Buccia interna della castagna.
+166,agricoltura,ita-15-27353-n,vite,,,,,S,piggello,,,120,107,"""piggello"" o ""gibella""."
+167,agricoltura,ita-15-27353-n,involucro,ita-15-26274-n,,,,O,riccio,ita-15-1724-n,,91,50,Riccio della castagna.
+168,agricoltura,ita-15-27353-n,vite,,,,,S,raspollo,,,116,100,"""raspollo""."
+169,agricoltura,ita-15-27353-n,involucro,,,,,S,fiocino,,,123,114,"""fiòcino""."
+170,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,acino,ita-15-25757-n,,122,112,Chicco d' uva.
+171,agricoltura,ita-15-27353-n,involucro,,,,,S,pula,,,138,175,"""pula""."
+172,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,bigoncia,ita-15-16585-n,,162,252,Bigoncia.
+173,agricoltura,ita-15-27353-n,legamento,,,,,S,balzo,,,131,136,"""balzo""."
+174,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,filare,ita-15-12085-n,,125,118,Filare.
+175,agricoltura,ita-15-27353-n,legamento,,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+176,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,grappolo_1,ita-15-26969-n,,115,98,Grappolo d' uva.
+177,agricoltura,ita-15-27353-n,legamento,,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+178,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,grappolo_2,NA,ita-15-26969-n,117,101,Parte del grappolo d' uva.
+179,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,grappolo_3,NA,ita-15-26969-n,118,103,Doppio grappolo.
+180,agricoltura,ita-15-27353-n,legamento,,,,,S,cavagno,,,164,257,"""cavagno""."
+181,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,palo_della_vite,NA,ita-15-10546-n,124,115,Sostegno morto della vite.
+182,agricoltura,ita-15-27353-n,marciume,,,,,S,guaime,,,72,228,"""guaime""."
+183,agricoltura,ita-15-27353-n,marciume,,,,,S,guaime,,,072a,230,"""sa di guaime""."
+184,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,raspo,ita-15-15714-n,,119,105,"Raspo, grappolo senza acini."
+185,agricoltura,ita-15-27353-n,marciume,,,,,S,mezzo,,,114,96,"""mézzo""."
+186,agricoltura,ita-15-27353-n,viticoltura,ita-15-291-n,,,,O,viticcio,ita-15-24421-n,,121,109,Viticcio.
+187,agricoltura,ita-15-27353-n,marciume,,,,,S,pacciame,,,145a,219,"""pacciame""."
+188,agricoltura,ita-15-27353-n,viticoltura,,,,,S,bronco,,,144e,212,"""bronco""."
+189,agricoltura,ita-15-27353-n,olio,ita-15-24825-n,,,,O,frantoio,ita-15-26117-n,,127,121,Frantoio.
+190,agricoltura,ita-15-27353-n,viticoltura,,,,,S,fiocino,,,123,114,"""fiòcino""."
+191,agricoltura,ita-15-27353-n,olio,ita-15-24825-n,,,,O,orcio,ita-15-870-n,,167,277,Orcio per l' olio.
+192,agricoltura,ita-15-27353-n,olio,,,,,S,fiasco,,,166,272,"""fiasco"" ('recipiente di stagno usato nella fabbricazione dell'olio')."
+193,agricoltura,ita-15-27353-n,viticoltura,,,,,S,frangere,,,127a,123,"""frangere""."
+194,agricoltura,ita-15-27353-n,olio,,,,,S,frangere,,,127a,123,"""frangere""."
+195,agricoltura,ita-15-27353-n,viticoltura,,,,,S,gibella,,,120,107,"""piggello"" o ""gibella""."
+196,agricoltura,ita-15-27353-n,olio,,,,,S,nappo,,,166a,274,"""nappo"" (è la stessa cosa del ""fiasco"" o il piatto su cui viene posato?)."
+197,agricoltura,ita-15-27353-n,viticoltura,,,,,S,piggello,,,120,107,"""piggello"" o ""gibella""."
+198,agricoltura,ita-15-27353-n,olio,,,,,S,postema,,,471,608,"""postèma""."
+199,agricoltura,ita-15-27353-n,viticoltura,,,,,S,proda,,,38,146,"""proda""."
+200,agricoltura,ita-15-27353-n,oliva,ita-15-8851-n,,,,O,raccogliere_le_olive,NA,ita-15-39606-v,126,119,Raccogliere le olive.
+201,agricoltura,ita-15-27353-n,olivicoltura,ita-15-20727-n,,,,O,cestino,NA,ita-15-13665-n,165c,269,Come si chiama il cestino per le olive?
+202,agricoltura,ita-15-27353-n,viticoltura,,,,,S,raspollo,,,116,100,"""raspollo""."
+203,agricoltura,ita-15-27353-n,olivicoltura,ita-15-20727-n,,,,O,frantoio,ita-15-26117-n,,127,121,Frantoio.
+205,agricoltura,ita-15-27353-n,olivicoltura,ita-15-20727-n,,,,O,orcio,ita-15-870-n,,167,277,Orcio per l' olio.
+208,agricoltura,ita-15-27353-n,olivicoltura,ita-15-20727-n,,,,O,raccogliere_le_olive,NA,ita-15-39606-v,126,119,Raccogliere le olive.
+209,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,bruscola,,,165b,267,"""brùscola""."
+212,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,bugnola,,,165a,265,"""bùgnolo"", ""bùgnola""."
+214,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,bugnolo,,,165a,265,"""bùgnolo"", ""bùgnola""."
+216,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,fiasco,,,166,272,"""fiasco"" ('recipiente di stagno usato nella fabbricazione dell'olio')."
+218,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,frangere,,,127a,123,"""frangere""."
+220,agricoltura,ita-15-27353-n,olivicoltura,,,,,S,nappo,,,166a,274,"""nappo"" (è la stessa cosa del ""fiasco"" o il piatto su cui viene posato?)."
+222,agricoltura,ita-15-27353-n,porzione_di_frutto,NA,,,ita-15-20190-n,O,grappolo_2,NA,ita-15-26969-n,117,101,Parte del grappolo d' uva.
+224,agricoltura,ita-15-27353-n,porzione_di_frutto,,,,,S,raspollo,,,116,100,"""raspollo""."
+226,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,bigoncia,ita-15-16585-n,,162,252,Bigoncia.
+229,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,cesta_per_l'_erba,NA,ita-15-1867-n,163,255,Grossa cesta rotonda per l' erba.
+231,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,cestino,NA,ita-15-13665-n,165c,269,Come si chiama il cestino per le olive?
+232,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,covone,ita-15-20699-n,,130,134,Fascio di spighe legate sul campo.
+233,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,mietere,ita-15-32641-v,,129',132,Mietere.
+235,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,mietitura,ita-15-17911-n,,"129""",129,Mietitura.
+237,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,raccogliere,ita-15-39606-v,,519B,734,Raccogliere.
+239,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,raccogliere_le_olive,NA,ita-15-39606-v,126,119,Raccogliere le olive.
+241,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,stocco_di_granturco,ita-15-993-n,,135a,170,Resti del granturco nel campo.
+243,agricoltura,ita-15-27353-n,raccolta,ita-15-22391-n,,,,O,stoppia,ita-15-50709-n,,135,168,Resti del grano nel campo.
+245,agricoltura,ita-15-27353-n,raccolta,,,,,S,balzo,,,131,136,"""balzo""."
+247,agricoltura,ita-15-27353-n,raccolta,,,,,S,barca,,,132b,143,"""barca""."
+249,agricoltura,ita-15-27353-n,raccolta,,,,,S,barcaia,,,132c,145,"""barcaia""."
+251,agricoltura,ita-15-27353-n,raccolta,,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+253,agricoltura,ita-15-27353-n,raccolta,,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+255,agricoltura,ita-15-27353-n,raccolta,,,,,S,brenti,,,144a,205,"""brenti""."
+257,agricoltura,ita-15-27353-n,raccolta,,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+259,agricoltura,ita-15-27353-n,raccolta,,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+262,agricoltura,ita-15-27353-n,raccolta,,,,,S,bronco,,,144e,212,"""bronco""."
+264,agricoltura,ita-15-27353-n,raccolta,,,,,S,bruscola,,,165b,267,"""brùscola""."
+266,agricoltura,ita-15-27353-n,raccolta,,,,,S,bugnola,,,165a,265,"""bùgnolo"", ""bùgnola""."
+268,agricoltura,ita-15-27353-n,raccolta,,,,,S,bugnolo,,,165a,265,"""bùgnolo"", ""bùgnola""."
+270,agricoltura,ita-15-27353-n,raccolta,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+272,agricoltura,ita-15-27353-n,raccolta,,,,,S,frullana,,,160,248,"""frullana""."
+274,agricoltura,ita-15-27353-n,raccolta,,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+275,agricoltura,ita-15-27353-n,raccolta,,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+277,agricoltura,ita-15-27353-n,raccolta,,,,,S,moncello,,,132h,161,"""moncello""."
+279,agricoltura,ita-15-27353-n,raccolta,,,,,S,raccattare,,,519Ba,738,"""raccattare""."
+281,agricoltura,ita-15-27353-n,raccolta,,,,,S,raccogliere,,,519Bb,739,"""raccogliere""."
+282,agricoltura,ita-15-27353-n,raccolta,,,,,S,raccoltaia,,,132g,159,"""raccoltaia""."
+284,agricoltura,ita-15-27353-n,raccolta,,,,,S,steccia,,,136,171,"""steccia""."
+286,agricoltura,ita-15-27353-n,recipiente,ita-15-7599-n,,,,O,bigoncia,ita-15-16585-n,,162,252,Bigoncia.
+287,agricoltura,ita-15-27353-n,recipiente,ita-15-7599-n,,,,O,cesta_per_l'_erba,NA,ita-15-1867-n,163,255,Grossa cesta rotonda per l' erba.
+289,agricoltura,ita-15-27353-n,recipiente,ita-15-7599-n,,,,O,cestino,NA,ita-15-13665-n,165c,269,Come si chiama il cestino per le olive?
+291,agricoltura,ita-15-27353-n,recipiente,ita-15-7599-n,,,,O,orcio,ita-15-870-n,,167,277,Orcio per l' olio.
+293,agricoltura,ita-15-27353-n,recipiente,,,,,S,arbiolo,,,141c,190,"""arbiolo""."
+295,agricoltura,ita-15-27353-n,recipiente,,,,,S,berignolo,,,030a,120,"""berìgnolo""."
+297,agricoltura,ita-15-27353-n,recipiente,,,,,S,bruscola,,,165b,267,"""brùscola""."
+300,agricoltura,ita-15-27353-n,recipiente,,,,,S,bugnola,,,165a,265,"""bùgnolo"", ""bùgnola""."
+302,agricoltura,ita-15-27353-n,recipiente,,,,,S,bugnolo,,,165a,265,"""bùgnolo"", ""bùgnola""."
+304,agricoltura,ita-15-27353-n,recipiente,,,,,S,capisteo,,,141a,186,"""capisteo""."
+306,agricoltura,ita-15-27353-n,recipiente,,,,,S,cavagno,,,164,257,"""cavagno""."
+308,agricoltura,ita-15-27353-n,recipiente,,,,,S,crivello,,,141d,192,"""crivèllo"""
+310,agricoltura,ita-15-27353-n,recipiente,,,,,S,fiasco,,,166,272,"""fiasco"" ('recipiente di stagno usato nella fabbricazione dell'olio')."
+312,agricoltura,ita-15-27353-n,recipiente,,,,,S,nappo,,,166a,274,"""nappo"" (è la stessa cosa del ""fiasco"" o il piatto su cui viene posato?)."
+314,agricoltura,ita-15-27353-n,recipiente,,,,,S,vassoia,,,141b,188,"""vassoia""."
+316,agricoltura,ita-15-27353-n,resto,ita-15-2041-n,,,,O,pagliuzza,ita-15-30557-n,,139,177,Pagliuzza.
+317,agricoltura,ita-15-27353-n,resto,ita-15-2041-n,,,,O,pula,ita-15-1507-n,,137,173,Pula.
+319,agricoltura,ita-15-27353-n,resto,ita-15-2041-n,,,,O,stocco_di_granturco,ita-15-993-n,,135a,170,Resti del granturco nel campo.
+321,agricoltura,ita-15-27353-n,resto,ita-15-2041-n,,,,O,stoppia,ita-15-50709-n,,135,168,Resti del grano nel campo.
+323,agricoltura,ita-15-27353-n,resto,,,,,S,bronco,,,144e,212,"""bronco""."
+325,agricoltura,ita-15-27353-n,resto,,,,,S,postema,,,471,608,"""postèma""."
+327,agricoltura,ita-15-27353-n,resto,,,,,S,pula,,,138,175,"""pula""."
+329,agricoltura,ita-15-27353-n,resto,,,,,S,steccia,,,136,171,"""steccia""."
+331,agricoltura,ita-15-27353-n,sostegno,ita-15-15188-n,,,,O,palo_della_vite,NA,ita-15-10546-n,124,115,Sostegno morto della vite.
+333,agricoltura,ita-15-27353-n,sostegno,ita-15-15188-n,,,,O,stollo,ita-15-513-n,,133,164,Palo del pagliaio.
+335,agricoltura,ita-15-27353-n,sostegno,,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+337,agricoltura,ita-15-27353-n,sostegno,,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+339,agricoltura,ita-15-27353-n,sostegno,,,,,S,bronco,,,144e,212,"""bronco""."
+341,agricoltura,ita-15-27353-n,sostegno,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+342,agricoltura,ita-15-27353-n,terriccio,ita-15-27123-n,,,,O,terriccio,NA,ita-15-27123-n,90,47,Terriccio di castagno.
+344,agricoltura,ita-15-27353-n,terriccio,,,,,S,pula,,,138,175,"""pula""."
+346,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,O,cercine,ita-15-12794-n,,169,281,Cercine.
+348,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,asino,,,176,294,"E' più usato ""asino"", ""ciuco"" o ""somaro""?"
+350,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,balzo,,,131,136,"""balzo""."
+352,agricoltura,ita-15-27353-n,trasporto,ita-15-50477-n,,,,S,barca,,,132b,143,"""barca""."
+2972,agricoltura,ita-15-27353-n,ammasso,,,,,S,barca,,,132b,143,"""barca""."
+2973,agricoltura,ita-15-27353-n,ammasso,,,,,S,barcaia,,,132c,145,"""barcaia""."
+2974,agricoltura,ita-15-27353-n,ammasso,,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+2975,agricoltura,ita-15-27353-n,ammasso,,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+2976,agricoltura,ita-15-27353-n,ammasso,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+2977,agricoltura,ita-15-27353-n,ammasso,,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+2978,agricoltura,ita-15-27353-n,ammasso,,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+2979,agricoltura,ita-15-27353-n,ammasso,,,,,S,moncello,,,132h,161,"""moncello""."
+2980,agricoltura,ita-15-27353-n,ammasso,,,,,S,pagliaia,,,132e,155,"""pagliaia""."
+2981,agricoltura,ita-15-27353-n,ammasso,,,,,S,pagliaio,,,132f,157,"""pagliaio""."
+2982,agricoltura,ita-15-27353-n,ammasso,,,,,S,raccoltaia,,,132g,159,"""raccoltaia""."
+2983,agricoltura,ita-15-27353-n,aratura,ita-15-19876-n,,,,O,vomere,ita-15-2270-n,,161,250,Vomere.
+2984,agricoltura,ita-15-27353-n,aratura,,,,,S,ceppo,,,025B,92,"""céppo""."
+2985,agricoltura,ita-15-27353-n,arboricoltura,ita-15-983-n,,,,O,castagneto_1,ita-15-23946-n,,87,41,Bosco di castagni.
+2986,agricoltura,ita-15-27353-n,arboricoltura,ita-15-983-n,,,,O,castagneto_2,NA,ita-15-23946-n,88,43,Bosco di castagni giovani.
+2987,agricoltura,ita-15-27353-n,arboricoltura,ita-15-983-n,,,,O,pollone,NA,ita-15-15574-n,89,45,Pollone di castagno.
+2988,agricoltura,ita-15-27353-n,arboricoltura,,,,,S,albero,,,151,233,"Si dice ""albero"" o ""pianta""?"
+2989,agricoltura,ita-15-27353-n,arboricoltura,,,,,S,pianta,,,151,233,"Si dice ""albero"" o ""pianta""?"
+2990,agricoltura,ita-15-27353-n,arnese,ita-15-1088-n,,,,O,cercine,ita-15-12794-n,,169,281,Cercine.
+2991,agricoltura,ita-15-27353-n,arnese,ita-15-1088-n,,,,O,vagliare,NA,ita-15-38290-v,140',183,Vagliare il grano.
+2992,agricoltura,ita-15-27353-n,arnese,ita-15-1088-n,,,,O,vaglio,ita-15-2238-n,,"140""",181,Vaglio.
+2993,agricoltura,ita-15-27353-n,arnese,ita-15-1088-n,,,,O,vomere,ita-15-2270-n,,161,250,Vomere.
+2994,agricoltura,ita-15-27353-n,arnese,,,,,S,arbiolo,,,141c,190,"""arbiolo""."
+2995,agricoltura,ita-15-27353-n,arnese,,,,,S,balzo,,,131,136,"""balzo""."
+2996,agricoltura,ita-15-27353-n,arnese,,,,,S,capisteo,,,141a,186,"""capisteo""."
+2997,agricoltura,ita-15-27353-n,arnese,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+2998,agricoltura,ita-15-27353-n,arnese,,,,,S,colo,,,141e,194,"""colo""."
+2999,agricoltura,ita-15-27353-n,arnese,,,,,S,crivello,,,141d,192,"""crivèllo"""
+3000,agricoltura,ita-15-27353-n,arnese,,,,,S,frullana,,,160,248,"""frullana""."
+3001,agricoltura,ita-15-27353-n,arnese,,,,,S,manfano,,,434d,690,"""mànfano""."
+3002,agricoltura,ita-15-27353-n,arnese,,,,,S,pignatta,,,276Bb,317,"""pignatta""."
+3003,agricoltura,ita-15-27353-n,arnese,,,,,S,vassoia,,,141b,188,"""vassoia""."
+3004,agricoltura,ita-15-27353-n,bosco,,,,,S,brenti,,,144a,205,"""brenti""."
+3005,agricoltura,ita-15-27353-n,bosco,,,,,S,brocca,,,144f,215,"""brocco"", ""brocca""."
+3006,agricoltura,ita-15-27353-n,bosco,,,,,S,brocco,,,144f,215,"""brocco"", ""brocca""."
+3007,agricoltura,ita-15-27353-n,bosco,,,,,S,bronco,,,144e,212,"""bronco""."
+3008,agricoltura,ita-15-27353-n,bosco,,,,,S,bruschi,,,144b,207,"""bruschi""."
+3009,agricoltura,ita-15-27353-n,bosco,,,,,S,lama,,,034a,138,"""lama"""
+3010,agricoltura,ita-15-27353-n,bosco,,,,,S,macchia,,,142,196,"""macchia""."
+3011,agricoltura,ita-15-27353-n,bosco,,,,,S,muschio,,,150a,231,"""muschio""."
+3012,agricoltura,ita-15-27353-n,bosco,,,,,S,pacciame,,,145a,219,"""pacciame""."
+3013,agricoltura,ita-15-27353-n,bosco,,,,,S,scepe,,,142a,198,"""scèpe""."
+3014,agricoltura,ita-15-27353-n,bosco,,,,,S,scopi,,,144d,210,"""scopi""."
+3015,agricoltura,ita-15-27353-n,bosco,,,,,S,stipe,,,144c,208,"""stipe""."
+3016,agricoltura,ita-15-27353-n,castagna,ita-15-2323-n,,,,O,castagna_vuota,NA,ita-15-2323-n,93,53,Castagne vuote contenute nel riccio.
+3017,agricoltura,ita-15-27353-n,castagna,ita-15-2323-n,,,,O,pericarpo,NA,ita-15-22360-n,92,51,Buccia interna della castagna.
+3018,agricoltura,ita-15-27353-n,castagna,ita-15-2323-n,,,,O,riccio,ita-15-1724-n,,91,50,Riccio della castagna.
+3019,agricoltura,ita-15-27353-n,castagna,,,,,S,neccio,,,306,384,"""neccio"", ""niccio""."
+3020,agricoltura,ita-15-27353-n,castagna,,,,,S,niccio,,,306,384,"""neccio"", ""niccio""."
+3021,agricoltura,ita-15-27353-n,castagna,,,,,S,pattona,,,304a,378,"""pattona""."
+3022,agricoltura,ita-15-27353-n,castagna,,,,,S,pula,,,138,175,"""pula""."
+3023,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,castagna_vuota,NA,ita-15-2323-n,93,53,Castagne vuote contenute nel riccio.
+3024,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,castagneto_1,ita-15-23946-n,,87,41,Bosco di castagni.
+3025,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,castagneto_2,NA,ita-15-23946-n,88,43,Bosco di castagni giovani.
+3026,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,pericarpo,NA,ita-15-22360-n,92,51,Buccia interna della castagna.
+3027,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,pollone,NA,ita-15-15574-n,89,45,Pollone di castagno.
+3028,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,riccio,ita-15-1724-n,,91,50,Riccio della castagna.
+3029,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,seccatoio,NA,ita-15-19206-n,94,55,Seccatoio di castagne.
+3030,agricoltura,ita-15-27353-n,castagnicoltura,NA,,,ita-15-19381-n,O,terriccio,NA,ita-15-27123-n,90,47,Terriccio di castagno.
+3031,agricoltura,ita-15-27353-n,castagnicoltura,,,,,S,arbiolo,,,141c,190,"""arbiolo""."
+3032,agricoltura,ita-15-27353-n,castagnicoltura,,,,,S,capisteo,,,141a,186,"""capisteo""."
+3033,agricoltura,ita-15-27353-n,castagnicoltura,,,,,S,colo,,,141e,194,"""colo""."
+3034,agricoltura,ita-15-27353-n,castagnicoltura,,,,,S,crivello,,,141d,192,"""crivèllo"""
+3035,agricoltura,ita-15-27353-n,castagnicoltura,,,,,S,vassoia,,,141b,188,"""vassoia""."
+3036,agricoltura,ita-15-27353-n,castagno,ita-15-29687-n,,,,O,castagneto_1,ita-15-23946-n,,87,41,Bosco di castagni.
+3037,agricoltura,ita-15-27353-n,castagno,ita-15-29687-n,,,,O,castagneto_2,NA,ita-15-23946-n,88,43,Bosco di castagni giovani.
+3038,agricoltura,ita-15-27353-n,castagno,ita-15-29687-n,,,,O,pollone,NA,ita-15-15574-n,89,45,Pollone di castagno.
+3039,agricoltura,ita-15-27353-n,castagno,ita-15-29687-n,,,,O,terriccio,NA,ita-15-27123-n,90,47,Terriccio di castagno.
+3040,agricoltura,ita-15-27353-n,cereale,ita-15-28152-n,,,,O,segale,ita-15-50178-n,,128,126,Segale.
+3041,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,covone,ita-15-20699-n,,130,134,Fascio di spighe legate sul campo.
+3042,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,mietere,ita-15-32641-v,,129',132,Mietere.
+3043,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,mietitura,ita-15-17911-n,,"129""",129,Mietitura.
+3044,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,pula,ita-15-1507-n,,137,173,Pula.
+3045,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,segale,ita-15-50178-n,,128,126,Segale.
+3046,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,stocco_di_granturco,ita-15-993-n,,135a,170,Resti del granturco nel campo.
+3047,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,stollo,ita-15-513-n,,133,164,Palo del pagliaio.
+3048,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,stoppia,ita-15-50709-n,,135,168,Resti del grano nel campo.
+3049,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,trebbiare,ita-15-41163-v,,134,166,Trebbiare.
+3050,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,vagliare,NA,ita-15-38290-v,140',183,Vagliare il grano.
+3051,agricoltura,ita-15-27353-n,cerealicoltura,ita-15-21232-n,,,,O,vaglio,ita-15-2238-n,,"140""",181,Vaglio.
+3052,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,arbiolo,,,141c,190,"""arbiolo""."
+3053,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,balzo,,,131,136,"""balzo""."
+3054,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,barca,,,132b,143,"""barca""."
+3055,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,barcaia,,,132c,145,"""barcaia""."
+3056,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,bica,,,132a,141,"""bica"", ""biga""."
+3057,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,biga,,,132a,141,"""bica"", ""biga""."
+3058,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,capisteo,,,141a,186,"""capisteo""."
+3059,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,cavalletto,,,132i,163,"""cavalletto""."
+3060,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,colo,,,141e,194,"""colo""."
+3061,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,crivello,,,141d,192,"""crivèllo"""
+3062,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,meta,,,132d,147,"""meta"", ""mieta""."
+3063,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,mieta,,,132d,147,"""meta"", ""mieta""."
+3064,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,moncello,,,132h,161,"""moncello""."
+3065,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,pagliaia,,,132e,155,"""pagliaia""."
+3066,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,pagliaio,,,132f,157,"""pagliaio""."
+3067,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,raccoltaia,,,132g,159,"""raccoltaia""."
+3068,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,steccia,,,136,171,"""steccia""."
+3069,agricoltura,ita-15-27353-n,cerealicoltura,,,,,S,vassoia,,,141b,188,"""vassoia""."
+3070,agricoltura,ita-15-27353-n,cernita,ita-15-7157-n,,,,O,scegliere,ita-15-40344-v,,517,728,Scegliere.
