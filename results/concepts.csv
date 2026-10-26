@@ -1,0 +1,39 @@
+question_id,question_number,label,text,target,mapping,pos
+101,117,grappolo_2,Parte del grappolo d' uva.,ita-15-26969-n,closest,n
+103,118,grappolo_3,Doppio grappolo.,ita-15-26969-n,closest,n
+105,119,raspo,"Raspo, grappolo senza acini.",ita-15-15714-n,direct,n
+109,121,viticcio,Viticcio.,ita-15-24421-n,direct,n
+112,122,acino,Chicco d' uva.,ita-15-25757-n,direct,n
+115,124,palo_della_vite,Sostegno morto della vite.,ita-15-10546-n,closest,n
+118,125,filare,Filare.,ita-15-12085-n,direct,n
+119,126,raccogliere_le_olive,Raccogliere le olive.,ita-15-39606-v,closest,v
+121,127,frantoio,Frantoio.,ita-15-26117-n,direct,n
+126,128,segale,Segale.,ita-15-50178-n,direct,n
+129,"129""",mietitura,Mietitura.,ita-15-17911-n,direct,n
+132,129',mietere,Mietere.,ita-15-32641-v,direct,v
+134,130,covone,Fascio di spighe legate sul campo.,ita-15-20699-n,direct,n
+164,133,stollo,Palo del pagliaio.,ita-15-513-n,direct,n
+166,134,trebbiare,Trebbiare.,ita-15-41163-v,direct,v
+168,135,stoppia,Resti del grano nel campo.,ita-15-50709-n,direct,n
+170,135a,stocco_di_granturco,Resti del granturco nel campo.,ita-15-993-n,direct,n
+173,137,pula,Pula.,ita-15-1507-n,direct,n
+177,139,pagliuzza,Pagliuzza.,ita-15-30557-n,direct,n
+181,"140""",vaglio,Vaglio.,ita-15-2238-n,direct,n
+183,140',vagliare,Vagliare il grano.,ita-15-38290-v,closest,v
+250,161,vomere,Vomere.,ita-15-2270-n,direct,n
+252,162,bigoncia,Bigoncia.,ita-15-16585-n,direct,n
+255,163,cesta_per_l'_erba,Grossa cesta rotonda per l' erba.,ita-15-1867-n,closest,n
+269,165c,cestino,Come si chiama il cestino per le olive?,ita-15-13665-n,closest,n
+277,167,orcio,Orcio per l' olio.,ita-15-870-n,direct,n
+281,169,cercine,Cercine.,ita-15-12794-n,direct,n
+41,87,castagneto_1,Bosco di castagni.,ita-15-23946-n,direct,n
+43,88,castagneto_2,Bosco di castagni giovani.,ita-15-23946-n,closest,n
+45,89,pollone,Pollone di castagno.,ita-15-15574-n,closest,n
+47,90,terriccio,Terriccio di castagno.,ita-15-27123-n,closest,n
+50,91,riccio,Riccio della castagna.,ita-15-1724-n,direct,n
+51,92,pericarpo,Buccia interna della castagna.,ita-15-22360-n,closest,n
+53,93,castagna_vuota,Castagne vuote contenute nel riccio.,ita-15-2323-n,closest,n
+55,94,seccatoio,Seccatoio di castagne.,ita-15-19206-n,closest,n
+728,517,scegliere,Scegliere.,ita-15-40344-v,direct,v
+734,519B,raccogliere,Raccogliere.,ita-15-39606-v,direct,v
+98,115,grappolo_1,Grappolo d' uva.,ita-15-26969-n,direct,n

@@ -1,0 +1,5 @@
+q1,q2,label1,label2,source,relation,target,both_direct,share_alt_group
+50,53,riccio,castagna_vuota,ita-15-1724-n,has_holo_part,ita-15-2323-n,False,True
+129,132,mietitura,mietere,ita-15-17911-n,xpos_near_synonym,ita-15-32641-v,True,True
+53,50,castagna_vuota,riccio,ita-15-2323-n,has_mero_part,ita-15-1724-n,False,True
+132,129,mietere,mietitura,ita-15-32641-v,xpos_near_synonym,ita-15-17911-n,True,True
